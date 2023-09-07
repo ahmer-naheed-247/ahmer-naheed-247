@@ -22,11 +22,11 @@
  - **PHP** (I'm using OOP, Design Patters, KISS, DRY and SOLID principles and following PSR Coding Standard)
  - **Database**: MySQL, MariaDB
  - **Frameworks**: Laravel, Yii, CodeIgniter, CakePHP
- - # I have experience with BigCommerce API, Shopify API, Xero API, AWS services and many other
- - # CMS and CRM: ActiveCollab, CsCart, Bitrix
- - # Frontend: JavaScript (jQuery, jQuery UI, Bootsrap, VueJs). HTML5, XHTML, CSS3 + Bootstrap.
- - # Other: Bash Scripting, RabbitMQ
- - # Version control: git
+ -  I have experience with BigCommerce API, Shopify API, Xero API, AWS services and many other
+ -  CMS and CRM: ActiveCollab, CsCart, Bitrix
+ -  Frontend: JavaScript (jQuery, jQuery UI, Bootsrap, VueJs). HTML5, XHTML, CSS3 + Bootstrap.
+ -  Other: Bash Scripting, RabbitMQ
+ -  Version control: git
 # 💬 Firebase
 # 💬 GraphSQi
 # 💬 SaSS
