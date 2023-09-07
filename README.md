@@ -43,7 +43,7 @@
   - MANUAL testing
   - Unit testing
 # 📚📖 My Blogs
-  - ⚡ https://ahmercodes.hashnode.dev/hidden-features-of-github
+  - ⚡ [https://ahmercodes.hashnode.dev/hidden-features-of-github](https://ahmercodes.hashnode.dev/)
 # 📫  How to Reach me
 ahmer.naheed.247@gmail.com
 
