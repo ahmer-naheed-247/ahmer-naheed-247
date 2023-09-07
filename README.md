@@ -27,12 +27,12 @@
  -  Frontend: JavaScript (jQuery, jQuery UI, Bootsrap, VueJs). HTML5, XHTML, CSS3 + Bootstrap.
  -  Other: Bash Scripting, RabbitMQ
  -  Version control: git
-# 💬 Firebase
-# 💬 GraphSQi
-# 💬 SaSS
-# 💬 Servers:-
-  - Localhost: xamp,wamp,map,
-  - Hosting companies: godaddy, hostinger, Hoster,wix etc
+ - **💬 Firebase**
+ - **💬 GraphSQi**
+ - **💬 SaSS**
+ - **💬 Servers:-**
+  -- Localhost: xamp,wamp,map,
+  -- Hosting companies: godaddy, hostinger, Hoster,wix etc
 # 🌱 Skills in learning process:
   - Cloud computing
   - AWS( Amazon web Services)
