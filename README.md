@@ -4,7 +4,7 @@
  <img alt="YOUR-ALT-TEXT" src="https://raw.githubusercontent.com/ahmer-naheed-247/ahmer-naheed-247/master/Ahmer%20copy%20(2).jpg">
 </picture>
 
-# 🙋🏻‍♂️ About me
+# 🙋🏻‍♂️ About me 
   I am Ahmer Naheed, a NUML graduate with Bachelor's of Science in Computer Science as my last degree. I am a full stack web developer with expertise in :
 ## 🌱 Frontend: 
   - Html
@@ -42,8 +42,11 @@
   - SQA ( Software Quality Assurance) :
   - MANUAL testing
   - Unit testing
+# 📚📖 My Blogs
+  - ⚡ https://ahmercodes.hashnode.dev/hidden-features-of-github
 # 📫  How to Reach me
 ahmer.naheed.247@gmail.com
+
 <!--
 **ahmer-naheed-247/ahmer-naheed-247** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
