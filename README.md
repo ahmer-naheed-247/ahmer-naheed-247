@@ -33,6 +33,10 @@
  - **💬 Servers:-**
   -- Localhost: xamp,wamp,map,
   -- Hosting companies: godaddy, hostinger, Hoster,wix etc
+   
+# 📚📖 My Blogs
+  - ⚡ [https://ahmercodes.hashnode.dev/hidden-features-of-github](https://ahmercodes.hashnode.dev/)
+
 ## 🌱 Skills in learning process:
   - Cloud computing
   - AWS( Amazon web Services)
@@ -42,8 +46,7 @@
   - SQA ( Software Quality Assurance) :
   - MANUAL testing
   - Unit testing
-# 📚📖 My Blogs
-  - ⚡ [https://ahmercodes.hashnode.dev/hidden-features-of-github](https://ahmercodes.hashnode.dev/)
+  - 
 # 📫  How to Reach me
 ahmer.naheed.247@gmail.com
 
