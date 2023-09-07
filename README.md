@@ -1,9 +1,8 @@
 ### Hi there 👋
 <picture>
- <source media="(prefers-color-scheme: dark)" srcset="![Ahmer copy](https://github.com/ahmer-naheed-247/ahmer-naheed-247/assets/86819652/06c0f219-426b-415e-a46b-5dc0f4f63cfe)
-">
- <source media="(prefers-color-scheme: light)" srcset="![Ahmer copy](https://github.com/ahmer-naheed-247/ahmer-naheed-247/assets/86819652/06c0f219-426b-415e-a46b-5dc0f4f63cfe)">
- <img alt="YOUR-ALT-TEXT" src="![Ahmer copy](https://github.com/ahmer-naheed-247/ahmer-naheed-247/assets/86819652/06c0f219-426b-415e-a46b-5dc0f4f63cfe)">
+ <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ahmer-naheed-247/ahmer-naheed-247/master/Ahmer%20copy%20(2).jpg">
+ <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ahmer-naheed-247/ahmer-naheed-247/master/Ahmer%20copy%20(2).jpg">
+ <img alt="YOUR-ALT-TEXT" src="https://raw.githubusercontent.com/ahmer-naheed-247/ahmer-naheed-247/master/Ahmer%20copy%20(2).jpg">
 </picture>
 
 <!--
