@@ -4,21 +4,21 @@
  <img alt="YOUR-ALT-TEXT" src="https://raw.githubusercontent.com/ahmer-naheed-247/ahmer-naheed-247/master/Ahmer%20copy%20(2).jpg">
 </picture>
 
-### 🙋🏻‍♂️ About me
+# 🙋🏻‍♂️ About me
   I am Ahmer Naheed, a NUML graduate with Bachelor's of Science in Computer Science as my last degree. I am a full stack web developer with expertise in :
-# 🌱 Frontend: 
+## 🌱 Frontend: 
   - Html
   - Css
   - Bootstrap
   - Vue.js
-# 🌱 Backend: 
+## 🌱 Backend: 
   - Core Php
   - Laravel
   - CodeIgnitor
   - yii2
-# 🌱 CMS: 
+## 🌱 CMS: 
   - Wordpress
-# 💬 My Technical skills:
+## 💬 My Technical skills:
  - **PHP** (I'm using OOP, Design Patters, KISS, DRY and SOLID principles and following PSR Coding Standard)
  - **Database**: MySQL, MariaDB
  - **Frameworks**: Laravel, Yii, CodeIgniter, CakePHP
@@ -33,7 +33,7 @@
  - **💬 Servers:-**
   -- Localhost: xamp,wamp,map,
   -- Hosting companies: godaddy, hostinger, Hoster,wix etc
-# 🌱 Skills in learning process:
+## 🌱 Skills in learning process:
   - Cloud computing
   - AWS( Amazon web Services)
   - CCNA
@@ -42,7 +42,7 @@
   - SQA ( Software Quality Assurance) :
   - MANUAL testing
   - Unit testing
-## 📫  How to Reach me
+# 📫  How to Reach me
 ahmer.naheed.247@gmail.com
 <!--
 **ahmer-naheed-247/ahmer-naheed-247** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
