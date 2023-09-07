@@ -5,8 +5,7 @@
 </picture>
 
 ### 🙋🏻‍♂️ About me
-# 🔭 Currently working as a Full Stack Developer at BAM.
-  I am a NUML graduate with Bachelor's of Science in Computer Science as my last degree. I am a full stack web developer with expertise in :
+  ****I am Ahmer Naheed, a NUML graduate with Bachelor's of Science in Computer Science as my last degree. I am a full stack web developer with expertise in :
 # 🌱 Frontend: 
   - Html
   - Css
