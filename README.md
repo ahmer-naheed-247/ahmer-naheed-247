@@ -7,10 +7,10 @@
 ### 🙋🏻‍♂️ About me
 🔭 Currently working as a Full Stack Developer at BAM.
 I am a NUML graduate with Bachelor's of Science in Computer Science as my last degree. I am a full stack web developer with expertise in :
-🌱 Frontend: html,css,bootstrap, Vue.js,
-🌱 Backend: Core Php, Laravel,CodeIgnitor, yii2
-🌱 CMS: wordpress-> theme,plugin development, debugging & Deployment.
-💬 My technical skills:
+- 🌱 Frontend: html,css,bootstrap, Vue.js,
+- 🌱 Backend: Core Php, Laravel,CodeIgnitor, yii2
+- 🌱 CMS: wordpress-> theme,plugin development, debugging & Deployment.
+- 💬 My technical skills:
  - PHP (I'm using OOP, Design Patters, KISS, DRY and SOLID principles and following PSR Coding Standard)
  - Database: MySQL, MariaDB
  - Frameworks: Laravel, Yii, CodeIgniter, CakePHP
@@ -23,8 +23,8 @@ I am a NUML graduate with Bachelor's of Science in Computer Science as my last d
 💬 GraphSQi
 💬 SaSS
 💬 Servers:-
- Localhost: xamp,wamp,map,
- Hosting companies: godaddy, hostinger, Hoster,wix etc
+  - Localhost: xamp,wamp,map,
+  - Hosting companies: godaddy, hostinger, Hoster,wix etc
 🌱 Skills in learning process:
  Cloud computing
  AWS( Amazon web Services)
